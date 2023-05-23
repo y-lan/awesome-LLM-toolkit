@@ -33,8 +33,9 @@
 [Stack Exchange](https://stackexchange.com/sites), [wikihow](https://www.wikihow.com/), [Pushshift Reddit API](https://reddit-api.readthedocs.io/en/latest/)
 
 
-## Discord
+## Community
 
 WIP
 
-
+## Others
+- [LLM Arena](https://arena.lmsys.org/)
