@@ -17,6 +17,7 @@
 | [mc4](https://huggingface.co/datasets/mc4) | Raw Text | multilingual (100+) | ODC-By | | [Paper](https://arxiv.org/pdf/1910.10683.pdf) |
 | [bloom](https://huggingface.co/datasets/sil-ai/bloom-lm) | Raw Text | multilingual (46) | depend on the specific data record| | 
 | [RedPajama](https://www.together.xyz/blog/redpajama) | Raw Text | mostly EN | Apache 2.0 | |
+| [WuDaoCorpora](https://www.sciencedirect.com/science/article/pii/S2666651021000152) | Raw Text | zh-CN | | 5TB |
 | [Stanford Alpaca](https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json) | Instruction | EN | CC BY-NC 4.0 | |
 | [Alpaca Cleaned](https://github.com/gururise/AlpacaDataCleaned) | Instruction | EN | CC BY-NC 4.0 | |
 | [ShareGPT Vicuna](https://huggingface.co/datasets/anon8231489123/ShareGPT_Vicuna_unfiltered) | Instruction | EN | 🤐 | Collected from [sharegpt](https://sharegpt.com/)|
