@@ -15,7 +15,8 @@
 | Name | Type | Language | License | Note |
 | -------- | -------- | -------- | -------- | -------- |
 | [mc4](https://huggingface.co/datasets/mc4) | Raw Text | multilingual (100+) | ODC-By | | [Paper](https://arxiv.org/pdf/1910.10683.pdf) |
-| [bloom](https://huggingface.co/datasets/sil-ai/bloom-lm) | Raw Text | multilingual (46) | depend on the specific data record| | 
+| [bloom](https://huggingface.co/datasets/sil-ai/bloom-lm) | Raw Text | multilingual (46) | Depend on data| | 
+| [wmt22](https://www.statmt.org/wmt22/translation-task.html) | translation | multilingual | Depend on data | | 
 | [RedPajama](https://www.together.xyz/blog/redpajama) | Raw Text | mostly EN | Apache 2.0 | |
 | [WuDaoCorpora](https://www.sciencedirect.com/science/article/pii/S2666651021000152) | Raw Text | zh-CN | | 5TB |
 | [Stanford Alpaca](https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json) | Instruction | EN | CC BY-NC 4.0 | |
