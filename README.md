@@ -31,6 +31,7 @@
 | [HC3](https://huggingface.co/datasets/Hello-SimpleAI/HC3), [Chinese](https://huggingface.co/datasets/Hello-SimpleAI/HC3-Chinese) | RLHF | EN, CN | CC BY-SA 3.0 | [Paper](https://arxiv.org/abs/2301.07597), [Github](https://github.com/Hello-SimpleAI/chatgpt-comparison-detection) | 
 | [Lamini](https://github.com/lamini-ai/lamini#data-release)   | Instruction   | EN   |  CC-BY-4.0  |  |
 | [the_pile_books3](https://huggingface.co/datasets/the_pile_books3) | Raw Text | mostly EN | MIT | part of [the pile](https://github.com/EleutherAI/the-pile)|
+| [CoNaLa](https://huggingface.co/datasets/neulab/conala) | Coding | EN | MIT | |
 
 ### Others
 [Stack Exchange](https://stackexchange.com/sites), [wikihow](https://www.wikihow.com/), [Pushshift Reddit API](https://reddit-api.readthedocs.io/en/latest/)
