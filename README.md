@@ -1,12 +1,13 @@
 # awesome-LLM-toolkit
 
 
-## Model Techniques
+## Core Model/Training Techniques
 
 - FlashAttention: [Github](https://github.com/HazyResearch/flash-attention), [Paper](https://arxiv.org/abs/2205.14135)
 - ALiBi: [Paper](https://arxiv.org/abs/2108.12409)
 - FasterTransformer: [Github](https://github.com/NVIDIA/FasterTransformer)
-
+- bitsandbytes: 8-bit optimizer
+- PEFT: [Github](https://github.com/huggingface/peft)
 
 
 
@@ -41,3 +42,4 @@ WIP
 
 ## Others
 - [LLM Arena](https://arena.lmsys.org/)
+- [text-generation-webui](https://github.com/oobabooga/text-generation-webui)
