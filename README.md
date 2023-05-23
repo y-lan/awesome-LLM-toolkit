@@ -7,7 +7,7 @@
 - ALiBi: [Paper](https://arxiv.org/abs/2108.12409)
 - FasterTransformer: [Github](https://github.com/NVIDIA/FasterTransformer)
 - bitsandbytes: 8-bit optimizer, [Github](https://github.com/TimDettmers/bitsandbytes)
-- PEFT: [Github](https://github.com/huggingface/peft)
+- PEFT: [Github](https://github.com/huggingface/peft), [LoRA Paper](https://arxiv.org/abs/2106.09685)
 
 
 
