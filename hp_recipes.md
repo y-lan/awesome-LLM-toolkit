@@ -1,0 +1,1 @@
+- [vicuna_13](https://github.com/lm-sys/FastChat/blob/main/scripts/train_vicuna_13b.sh)
