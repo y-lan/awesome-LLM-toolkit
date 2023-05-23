@@ -8,7 +8,10 @@
 - LLaMA based
   - [BELLE: Be Everyone's Large Language model Engine](https://github.com/LianjiaTech/BELLE)
   - [BiLLa: A Bilingual LLaMA with Enhanced Reasoning Ability](https://github.com/Neutralzz/BiLLa)
-  - [Chinese-LLaMA-Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca) （LoRA)
   - [Ziya-LLaMA](https://github.com/IDEA-CCNL/Fengshenbang-LM/)
+  - LoRA/adapters
+    - [Alpaca LoRA](https://github.com/tloen/alpaca-lora)
+    - [Chinese-LLaMA-Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca)
+    - [Dromedary](https://github.com/IBM/Dromedary) (65B)
 - Bloom based
   - [Phoenix](https://github.com/FreedomIntelligence/LLMZoo) 
