@@ -6,6 +6,7 @@
 - [Pythia](https://github.com/EleutherAI/pythia)
 - [Moss](https://github.com/OpenLMLab/MOSS)
 - LLaMA based
+  - [Vicuna](https://lmsys.org/blog/2023-03-30-vicuna/)
   - [BELLE: Be Everyone's Large Language model Engine](https://github.com/LianjiaTech/BELLE)
   - [BiLLa: A Bilingual LLaMA with Enhanced Reasoning Ability](https://github.com/Neutralzz/BiLLa)
   - [Ziya-LLaMA](https://github.com/IDEA-CCNL/Fengshenbang-LM/)
