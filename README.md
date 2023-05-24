@@ -1,5 +1,5 @@
 # awesome-LLM-toolkit
-
+Collect information about all the necessary tools and dataset required for building a high-quality customized LLM
 
 ## Core Model/Training Techniques
 
