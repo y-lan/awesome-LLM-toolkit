@@ -9,7 +9,7 @@ Collect information about all the necessary tools and dataset required for build
 - bitsandbytes: 8-bit optimizer, [Github](https://github.com/TimDettmers/bitsandbytes)
 - PEFT: [Github](https://github.com/huggingface/peft), [LoRA Paper](https://arxiv.org/abs/2106.09685)
   - [QLoRA](https://github.com/artidoro/qlora): GPU memory efficient fine-tuning by training LoRA on quantized models
-- [BLIP-2/LAVIS](https://github.com/salesforce/LAVIS): Connect image encoder with LLM to enable multi-modal
+- [BLIP-2/LAVIS](https://github.com/salesforce/LAVIS): Connect image encoder with LLM to enable multi-modal, [Paper](https://arxiv.org/pdf/2212.10846.pdf)
 
 ## Data
 
