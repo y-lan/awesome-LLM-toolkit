@@ -23,6 +23,7 @@ Collect information about all the necessary tools and dataset required for build
 | [wmt22](https://www.statmt.org/wmt22/translation-task.html) | translation | multilingual | Depend on data | | 
 | [RedPajama](https://www.together.xyz/blog/redpajama) | Raw Text | mostly EN | Apache 2.0 | |
 | [WuDaoCorpora](https://www.sciencedirect.com/science/article/pii/S2666651021000152) | Raw Text | zh-CN | | 5TB |
+| [self-instruct-seed](https://huggingface.co/datasets/HuggingFaceH4/self-instruct-seed) | Instruction | EN | Apache 2.0 |  |
 | [Stanford Alpaca](https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json) | Instruction | EN | CC BY-NC 4.0 | |
 | [Alpaca Cleaned](https://github.com/gururise/AlpacaDataCleaned) | Instruction | EN | CC BY-NC 4.0 | |
 | [ShareGPT Vicuna](https://huggingface.co/datasets/anon8231489123/ShareGPT_Vicuna_unfiltered) | Instruction | EN | 🤐 | Collected from [sharegpt](https://sharegpt.com/)|
