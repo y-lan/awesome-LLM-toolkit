@@ -5,7 +5,9 @@ Collect information about all the necessary tools and dataset required for build
 
 - FlashAttention: [Github](https://github.com/HazyResearch/flash-attention), [Paper](https://arxiv.org/abs/2205.14135)
 - ALiBi: [Paper](https://arxiv.org/abs/2108.12409)
-- FasterTransformer: [Github](https://github.com/NVIDIA/FasterTransformer)
+- Faster Inference
+   - FasterTransformer: [Github](https://github.com/NVIDIA/FasterTransformer)
+   - 
 - bitsandbytes: 8-bit optimizer, [Github](https://github.com/TimDettmers/bitsandbytes)
 - PEFT: [Github](https://github.com/huggingface/peft), [LoRA Paper](https://arxiv.org/abs/2106.09685)
   - [QLoRA](https://github.com/artidoro/qlora): GPU memory efficient fine-tuning by training LoRA on quantized models
@@ -40,11 +42,15 @@ Collect information about all the necessary tools and dataset required for build
 ### Others
 [Stack Exchange](https://stackexchange.com/sites), [wikihow](https://www.wikihow.com/), [Pushshift Reddit API](https://reddit-api.readthedocs.io/en/latest/)
 
+## Evaluation
+- [perplexity](https://huggingface.co/docs/transformers/perplexity)
+- [Vicuna Evaluation(Using GPT-4)](https://github.com/lm-sys/FastChat/tree/main/fastchat/eval)
 
 ## Community
 
-WIP
 
 ## Others
 - [LLM Arena](https://arena.lmsys.org/)
 - [text-generation-webui](https://github.com/oobabooga/text-generation-webui)
+- [LlamaChat](https://github.com/alexrozanski/LlamaChat) MacOS Client
+- [llama.cpp](https://github.com/ggerganov/llama.cpp) 
