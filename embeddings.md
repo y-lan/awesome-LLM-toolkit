@@ -1,2 +1,3 @@
-- [instructor-xl](https://huggingface.co/hkunlp/instructor-xl): EN, 384D, [Paper](https://arxiv.org/abs/2212.09741), use one-sentence instruction to generate task-specific embedding
-- 
+- [cross-encoder/mmarco-mMiniLMv2-L12-H384-v1](https://huggingface.co/cross-encoder/mmarco-mMiniLMv2-L12-H384-v1): multilingual cross-encoder model on MMARCO dataset
+- [ColBERTv2](https://github.com/stanford-futuredata/ColBERT): 
+- [instructor-xl](https://huggingface.co/hkunlp/instructor-xl): EN, 768D, [Paper](https://arxiv.org/abs/2212.09741), use one-sentence instruction to generate task-specific embedding
