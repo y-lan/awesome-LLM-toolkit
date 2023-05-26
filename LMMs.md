@@ -16,3 +16,5 @@
     - [Dromedary](https://github.com/IBM/Dromedary) (65B)
 - Bloom based
   - [Phoenix](https://github.com/FreedomIntelligence/LLMZoo) 
+- Coding
+  - [replit]https://huggingface.co/replit/replit-code-v1-3b)
