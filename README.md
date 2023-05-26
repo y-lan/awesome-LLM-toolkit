@@ -20,9 +20,10 @@ Collect information about all the necessary tools and dataset required for build
 | -------- | -------- | -------- | -------- | -------- |
 | [mc4](https://huggingface.co/datasets/mc4) | Raw Text | multilingual (100+) | ODC-By | | [Paper](https://arxiv.org/pdf/1910.10683.pdf) |
 | [bloom](https://huggingface.co/datasets/sil-ai/bloom-lm) | Raw Text | multilingual (46) | Depend on data| | 
-| [wmt22](https://www.statmt.org/wmt22/translation-task.html) | translation | multilingual | Depend on data | | 
+| [wmt22](https://www.statmt.org/wmt22E/translation-task.html) | translation | multilingual | Depend on data | | 
 | [RedPajama](https://www.together.xyz/blog/redpajama) | Raw Text | mostly EN | Apache 2.0 | |
 | [WuDaoCorpora](https://www.sciencedirect.com/science/article/pii/S2666651021000152) | Raw Text | zh-CN | | 5TB |
+| [openwebtext](https://huggingface.co/datasets/openwebtext) | Raw Text | EN | CC0 1.0 | used to train GPT-2 | 
 | [self-instruct-seed](https://huggingface.co/datasets/HuggingFaceH4/self-instruct-seed) | Instruction | EN | Apache 2.0 |  |
 | [Stanford Alpaca](https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json) | Instruction | EN | CC BY-NC 4.0 | |
 | [Alpaca Cleaned](https://github.com/gururise/AlpacaDataCleaned) | Instruction | EN | CC BY-NC 4.0 | |
