@@ -1,0 +1,2 @@
+- [instructor-xl](https://huggingface.co/hkunlp/instructor-xl): EN, 384D, [Paper](https://arxiv.org/abs/2212.09741), use one-sentence instruction to generate task-specific embedding
+- 
