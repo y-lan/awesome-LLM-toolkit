@@ -17,4 +17,4 @@
 - Bloom based
   - [Phoenix](https://github.com/FreedomIntelligence/LLMZoo) 
 - Coding
-  - [replit]https://huggingface.co/replit/replit-code-v1-3b)
+  - [replit](https://huggingface.co/replit/replit-code-v1-3b)
