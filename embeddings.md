@@ -12,3 +12,4 @@
 ## Datasets
 
 - [Cohere Wikipedia](https://txt.cohere.com/embedding-archives-wikipedia/)
+- [unicamp-dl/mmarco](https://huggingface.co/datasets/unicamp-dl/mmarco/viewer/japanese/train)
