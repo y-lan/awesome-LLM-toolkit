@@ -15,4 +15,4 @@
 - [Cohere Wikipedia](https://txt.cohere.com/embedding-archives-wikipedia/)
 - [unicamp-dl/mmarco](https://huggingface.co/datasets/unicamp-dl/mmarco/viewer/japanese/train), [Github](https://github.com/unicamp-dl/mMARCO)
 - [STSb Multi MT](https://huggingface.co/datasets/stsb_multi_mt)
- - [jSTS](https://github.com/yahoojapan/JGLUE/tree/main/datasets/jsts-v1.1)
+  - [jSTS](https://github.com/yahoojapan/JGLUE/tree/main/datasets/jsts-v1.1)
