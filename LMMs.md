@@ -25,3 +25,4 @@
 
 - [LLM Arena](https://chat.lmsys.org/?arena)
 - [SuperCLUE琅琊榜](https://www.superclueai.com/)
+- [Open LLM Leaderboard by HuggingFace](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)
