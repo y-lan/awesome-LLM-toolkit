@@ -18,3 +18,10 @@
   - [Phoenix](https://github.com/FreedomIntelligence/LLMZoo) 
 - Coding
   - [replit](https://huggingface.co/replit/replit-code-v1-3b)
+
+
+
+## Benchmarks
+
+- [LLM Arena](https://chat.lmsys.org/?arena)
+- [SuperCLUE琅琊榜](https://www.superclueai.com/)
