@@ -1,5 +1,4 @@
 
-
 - [Chinchilla](https://arxiv.org/pdf/2203.15556.pdf)
 - [GLM](https://github.com/THUDM/GLM) and [ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B)
 - [MPT](https://github.com/mosaicml/llm-foundry)
@@ -19,7 +18,8 @@
 - Coding
   - [replit](https://huggingface.co/replit/replit-code-v1-3b)
 
-
+- Multi-modal
+  - [MiniGPT-4](https://minigpt-4.github.io/)
 
 ## Benchmarks
 
