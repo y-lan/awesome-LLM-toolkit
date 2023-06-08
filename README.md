@@ -49,7 +49,7 @@ Collect information about all the necessary tools and dataset required for build
 - [awesome-legal-nlp](https://github.com/maastrichtlawtech/awesome-legal-nlp)
 
 ## Evaluation
-- [perplexity](https://huggingface.co/docs/transformers/perplexity)
+- [Perplexity & NLL](https://huggingface.co/docs/transformers/perplexity)
 - [Vicuna Evaluation(Using GPT-4)](https://github.com/lm-sys/FastChat/tree/main/fastchat/eval)
 
 ## Community
