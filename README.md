@@ -43,7 +43,10 @@ Collect information about all the necessary tools and dataset required for build
 | [OpenAssistant/oasst1](https://huggingface.co/datasets/OpenAssistant/oasst1) | Conversation | multilingual | Apache 2.0 | [Paper](https://arxiv.org/abs/2304.07327), Collected from [Open Assistant](https://open-assistant.io/) | 
 
 ### Others
-[Stack Exchange](https://stackexchange.com/sites), [wikihow](https://www.wikihow.com/), [Pushshift Reddit API](https://reddit-api.readthedocs.io/en/latest/)
+- [Stack Exchange](https://stackexchange.com/sites)
+- [wikihow](https://www.wikihow.com/)
+- [Pushshift Reddit API](https://reddit-api.readthedocs.io/en/latest/)
+- [awesome-legal-nlp](https://github.com/maastrichtlawtech/awesome-legal-nlp)
 
 ## Evaluation
 - [perplexity](https://huggingface.co/docs/transformers/perplexity)
