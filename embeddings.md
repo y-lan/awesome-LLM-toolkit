@@ -16,3 +16,8 @@
 - [unicamp-dl/mmarco](https://huggingface.co/datasets/unicamp-dl/mmarco/viewer/japanese/train), [Github](https://github.com/unicamp-dl/mMARCO)
 - [STSb Multi MT](https://huggingface.co/datasets/stsb_multi_mt)
   - [jSTS](https://github.com/yahoojapan/JGLUE/tree/main/datasets/jsts-v1.1)
+
+
+## Papers
+
+- [GPL: Generative Pseudo Labeling for Unsupervised Domain Adaptation of Dense Retrieval](https://arxiv.org/abs/2112.07577)
