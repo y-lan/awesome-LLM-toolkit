@@ -17,7 +17,8 @@
   - [Phoenix](https://github.com/FreedomIntelligence/LLMZoo) 
 - Coding
   - [replit](https://huggingface.co/replit/replit-code-v1-3b)
-
+- RNN-like
+  - [RWKV-LM](https://github.com/BlinkDL/RWKV-LM)
 - Multi-modal
   - [MiniGPT-4](https://minigpt-4.github.io/)
 
