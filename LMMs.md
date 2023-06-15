@@ -1,5 +1,6 @@
 
 - [Chinchilla](https://arxiv.org/pdf/2203.15556.pdf)
+- [T5s](https://github.com/google-research/t5x/blob/main/docs/models.md)
 - [GLM](https://github.com/THUDM/GLM) and [ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B)
 - [MPT](https://github.com/mosaicml/llm-foundry)
 - [Pythia](https://github.com/EleutherAI/pythia)
