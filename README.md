@@ -48,6 +48,10 @@ Collect information about all the necessary tools and dataset required for build
 - [wikihow](https://www.wikihow.com/)
 - [Pushshift Reddit API](https://reddit-api.readthedocs.io/en/latest/)
 - [awesome-legal-nlp](https://github.com/maastrichtlawtech/awesome-legal-nlp)
+- Papers on data-selection / instruction fine-tuning
+  - [<How Far Can Camels Go? Exploring the State of Instruction Tuning on Open Resources>](https://arxiv.org/pdf/2306.04751.pdf)
+  - [<LIMA: Less Is More for Alignment>](https://arxiv.org/abs/2305.11206)
+  - [INSTRUCTEVAL: Towards Holistic Evaluation of Instruction-Tuned Large Language Models](https://arxiv.org/abs/2306.04757)
 
 ## Evaluation
 - [Perplexity & NLL](https://huggingface.co/docs/transformers/perplexity)
