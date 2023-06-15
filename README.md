@@ -24,6 +24,7 @@ Collect information about all the necessary tools and dataset required for build
 | [RedPajama](https://www.together.xyz/blog/redpajama) | Raw Text | mostly EN | Apache 2.0 | |
 | [WuDaoCorpora](https://www.sciencedirect.com/science/article/pii/S2666651021000152) | Raw Text | zh-CN | | 5TB |
 | [The Stack](https://huggingface.co/datasets/bigcode/the-stack-dedup) | Code | 
+| [The Flan Collection](https://github.com/google-research/FLAN/tree/main/flan/v2) | Instruction | | |
 | [openwebtext](https://huggingface.co/datasets/openwebtext) | Raw Text | EN | CC0 1.0 | used to train GPT-2 | 
 | [self-instruct-seed](https://huggingface.co/datasets/HuggingFaceH4/self-instruct-seed) | Instruction | EN | Apache 2.0 |  |
 | [Stanford Alpaca](https://github.com/tatsu-lab/stanford_alpaca/blob/main/alpaca_data.json) | Instruction | EN | CC BY-NC 4.0 | |
