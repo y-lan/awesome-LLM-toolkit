@@ -1,6 +1,9 @@
+
+
 ## Models
 
-
+- [DeCLUTR](https://github.com/JohnGiorgi/DeCLUTR)
+- [xlm-roberta]
 - [sentence transformers](https://www.sbert.net/docs/pretrained_models.html#model-overview): [fine-tune](https://www.sbert.net/docs/training/overview.html)
   - [sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2](https://huggingface.co/sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2)
   - [GPL: Generative Pseudo Labeling for Unsupervised Domain Adaptation of Dense Retrieval](https://arxiv.org/abs/2112.07577) & [Domain Adaptation
@@ -9,7 +12,9 @@
 - [ColBERTv2](https://github.com/stanford-futuredata/ColBERT): 
 - [instructor-xl](https://huggingface.co/hkunlp/instructor-xl): EN, 768D, [Paper](https://arxiv.org/abs/2212.09741), use one-sentence instruction to generate task-specific embedding
 - OpenAI Embedding: [Paper: Text and Code Embeddings by Contrastive Pre-Training>](https://arxiv.org/abs/2201.10005)
-
+- [Text2vec](https://github.com/shibing624/text2vec)
+- [E5](https://github.com/microsoft/unilm/tree/master/e5)
+- [SimLM](https://github.com/microsoft/unilm/tree/master/simlm)
 
 
 ## Datasets
