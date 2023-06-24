@@ -14,7 +14,7 @@
     - [Alpaca LoRA](https://github.com/tloen/alpaca-lora)
     - [Chinese-LLaMA-Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca)
     - [Dromedary](https://github.com/IBM/Dromedary) (65B)
-    - [Guanaco](https://arxiv.org/pdf/2305.14314.pdf) (QLORA + High-Quality Instruction Dataset)
+    - [Guanaco](https://arxiv.org/abs/2305.14314) ([QLORA](https://github.com/artidoro/qlora) + High-Quality Instruction Dataset)
 - Bloom based
   - [Phoenix](https://github.com/FreedomIntelligence/LLMZoo) 
 - Coding
