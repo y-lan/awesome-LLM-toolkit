@@ -13,8 +13,8 @@
   - LoRA/adapters
     - [Alpaca LoRA](https://github.com/tloen/alpaca-lora)
     - [Chinese-LLaMA-Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca)
-    - [Dromedary](https://github.com/IBM/Dromedary) (65B)
-    - [Guanaco](https://arxiv.org/abs/2305.14314) ([QLORA](https://github.com/artidoro/qlora) + High-Quality Instruction Dataset)
+    - [Dromedary](https://github.com/IBM/Dromedary): 65B full-train, IBM
+    - [Guanaco](https://arxiv.org/abs/2305.14314): [QLORA](https://github.com/artidoro/qlora) + High-Quality Instruction Dataset
 - Bloom based
   - [Phoenix](https://github.com/FreedomIntelligence/LLMZoo) 
 - Coding
