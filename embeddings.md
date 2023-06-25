@@ -1,4 +1,4 @@
-<img width="936" alt="image" src="https://github.com/y-lan/awesome-LLM-toolkit/assets/769291/f89b1cc6-8340-4923-a735-cb964bb4516f">[MTEB leaderboard](https://huggingface.co/spaces/mteb/leaderboard)
+[MTEB leaderboard](https://huggingface.co/spaces/mteb/leaderboard)
 
 ## Text Models
 
