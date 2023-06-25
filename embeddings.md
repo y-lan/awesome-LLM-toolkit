@@ -1,4 +1,3 @@
-[MTEB leaderboard](https://huggingface.co/spaces/mteb/leaderboard)
 
 ## Text Models
 
@@ -39,4 +38,5 @@
 
 ## Benchmarks
 - [BEIR](https://github.com/beir-cellar/beir)
-- [MTEB](https://github.com/embeddings-benchmark/mteb)
+- [MTEB](https://github.com/embeddings-benchmark/mteb): [Leaderboard](https://huggingface.co/spaces/mteb/leaderboard)
+
