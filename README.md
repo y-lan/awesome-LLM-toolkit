@@ -61,7 +61,7 @@ Collect information about all the necessary tools and dataset required for build
 
 
 ## Others
-- [LLM Arena](https://arena.lmsys.org/)
+- [LMSYS Arena](https://arena.lmsys.org/) & [Leaderboard](https://lmsys.org/blog/)
 - [text-generation-webui](https://github.com/oobabooga/text-generation-webui)
 - [LlamaChat](https://github.com/alexrozanski/LlamaChat) MacOS Client
 - [llama.cpp](https://github.com/ggerganov/llama.cpp) 
