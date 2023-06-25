@@ -3,7 +3,7 @@
 ## Text Models
 
 - [DeCLUTR](https://github.com/JohnGiorgi/DeCLUTR)
-- [xlm-roberta]
+- [xlm-roberta](https://github.com/facebookresearch/fairseq/tree/main/examples/xlmr): multilingual(100 languages), pre-trained on CommonCrawl, Meta, 2020
 - [sentence transformers](https://www.sbert.net/docs/pretrained_models.html#model-overview): [fine-tune](https://www.sbert.net/docs/training/overview.html)
   - [sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2](https://huggingface.co/sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2)
   - [GPL: Generative Pseudo Labeling for Unsupervised Domain Adaptation of Dense Retrieval](https://arxiv.org/abs/2112.07577) & [Domain Adaptation
