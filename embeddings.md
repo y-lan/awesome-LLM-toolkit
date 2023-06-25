@@ -2,8 +2,9 @@
 
 ## Text Models
 
-- [DeCLUTR](https://github.com/JohnGiorgi/DeCLUTR)
 - [xlm-roberta](https://github.com/facebookresearch/fairseq/tree/main/examples/xlmr): multilingual(100 languages), pre-trained on CommonCrawl, Meta, 2020
+- [SimCSE](https://github.com/princeton-nlp/SimCSE): [paper](https://arxiv.org/pdf/2104.08821.pdf): dropout masks for constructing positive samples
+- [DeCLUTR](https://github.com/JohnGiorgi/DeCLUTR): [paper](https://arxiv.org/abs/2006.03659), Contrastive Learning
 - [sentence transformers](https://www.sbert.net/docs/pretrained_models.html#model-overview): [fine-tune](https://www.sbert.net/docs/training/overview.html)
   - [sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2](https://huggingface.co/sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2)
   - [GPL: Generative Pseudo Labeling for Unsupervised Domain Adaptation of Dense Retrieval](https://arxiv.org/abs/2112.07577) & [Domain Adaptation
@@ -11,7 +12,7 @@
 - [mmarco-mMiniLMv2-L12-H384-v1](https://huggingface.co/cross-encoder/mmarco-mMiniLMv2-L12-H384-v1): multilingual cross-encoder model trained on MMARCO dataset
 - [ColBERTv2](https://github.com/stanford-futuredata/ColBERT): 
 - [instructor-xl](https://huggingface.co/hkunlp/instructor-xl): EN, 768D, [Paper](https://arxiv.org/abs/2212.09741), use one-sentence instruction to generate task-specific embedding
-- OpenAI Embedding: [Paper: Text and Code Embeddings by Contrastive Pre-Training>](https://arxiv.org/abs/2201.10005)
+- OpenAI Embedding: [Paper: Text and Code Embeddings by Contrastive Pre-Training>](https://arxiv.org/abs/2201.10005): GPT + Contrastive Learning
 - [Text2vec](https://github.com/shibing624/text2vec)
 - [E5](https://github.com/microsoft/unilm/tree/master/e5)
 - [SimLM](https://github.com/microsoft/unilm/tree/master/simlm)
