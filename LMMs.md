@@ -19,6 +19,7 @@
   - [Phoenix](https://github.com/FreedomIntelligence/LLMZoo) 
 - Coding
   - [replit](https://huggingface.co/replit/replit-code-v1-3b)
+  - [WizardCoder](https://github.com/nlpxucan/WizardLM/tree/main/WizardCoder)
 - RNN-like
   - [RWKV-LM](https://github.com/BlinkDL/RWKV-LM)
 - Multi-modal
