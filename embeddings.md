@@ -1,6 +1,6 @@
 
 
-## Models
+## Text Models
 
 - [DeCLUTR](https://github.com/JohnGiorgi/DeCLUTR)
 - [xlm-roberta]
@@ -15,6 +15,10 @@
 - [Text2vec](https://github.com/shibing624/text2vec)
 - [E5](https://github.com/microsoft/unilm/tree/master/e5)
 - [SimLM](https://github.com/microsoft/unilm/tree/master/simlm)
+
+## Multi-modal Models
+
+- [ONE-PEACE](https://github.com/OFA-Sys/ONE-PEACE): general representation model across video/audio/language, [paper](https://arxiv.org/abs/2305.11172)
 
 
 ## Datasets
