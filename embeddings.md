@@ -29,7 +29,7 @@
 - [mMARCO](https://huggingface.co/datasets/unicamp-dl/mmarco/viewer/japanese/train), [Github](https://github.com/unicamp-dl/mMARCO)
 - [STSb Multi MT](https://huggingface.co/datasets/stsb_multi_mt)
   - [jSTS](https://github.com/yahoojapan/JGLUE/tree/main/datasets/jsts-v1.1)
-- NLI
+- NLIs
   - [SNLI (Stanford Natural Language Inference Corpus)](https://huggingface.co/datasets/snli)
   - [MNLI](https://huggingface.co/datasets/multi_nli)
   - [XNLI](https://huggingface.co/datasets/xnli)
