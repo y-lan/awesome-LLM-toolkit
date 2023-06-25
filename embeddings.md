@@ -12,7 +12,7 @@
   - [mmarco-mMiniLMv2-L12-H384-v1](https://huggingface.co/cross-encoder/mmarco-mMiniLMv2-L12-H384-v1): multilingual cross-encoder on MMARCO dataset
 - (2022) [Onstructor](https://instructor-embedding.github.io/): EN, 768D, [Paper](https://arxiv.org/abs/2212.09741), use one-sentence instruction to generate task-specific embedding
 - (2022, OpenAI) text-embedding-ada-002: [Paper](https://arxiv.org/abs/2201.10005), GPT + DeCLUTR
-- (2022, MS) [E5](https://github.com/microsoft/unilm/tree/master/e5) & [Multilingual-E5](https://huggingface.co/intfloat/multilingual-e5-base): [paper](https://arxiv.org/pdf/2212.03533.pdf): CCPairs + in-batch negatives, InfoNCE contrastive loss
+- (2022, MS) [E5](https://github.com/microsoft/unilm/tree/master/e5) & [Multilingual-E5](https://huggingface.co/intfloat/multilingual-e5-base): [paper](https://arxiv.org/pdf/2212.03533.pdf): [CCPairs](https://github.com/y-lan/awesome-LLM-toolkit/blob/main/assets/CCPairs.png) + in-batch negatives, InfoNCE contrastive loss
 - [Text2vec](https://github.com/shibing624/text2vec): Optimized Cosine Similarty Loss $\log \left(1+\sum_{(i, j) \in \Omega_{p o s},(k, l) \in \Omega_{\text {neg }}} e^{\lambda\left(\cos \left(u_k, u_l\right)-\cos \left(u_i, u_j\right)\right)}\right)$ ([CoSENT](https://github.com/bojone/CoSENT)) + CN
 - [SimLM](https://github.com/microsoft/unilm/tree/master/simlm)
 - others
