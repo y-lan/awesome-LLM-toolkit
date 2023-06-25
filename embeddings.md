@@ -10,9 +10,9 @@
   - [GPL: Generative Pseudo Labeling for Unsupervised Domain Adaptation of Dense Retrieval](https://arxiv.org/abs/2112.07577) & [Domain Adaptation
 ](https://www.sbert.net/examples/domain_adaptation/README.html#adaptive-pre-training)
   - [mmarco-mMiniLMv2-L12-H384-v1](https://huggingface.co/cross-encoder/mmarco-mMiniLMv2-L12-H384-v1): multilingual cross-encoder on MMARCO dataset
-- [instructor-xl](https://huggingface.co/hkunlp/instructor-xl): EN, 768D, [Paper](https://arxiv.org/abs/2212.09741), use one-sentence instruction to generate task-specific embedding
-- OpenAI Embedding: [Paper: Text and Code Embeddings by Contrastive Pre-Training>](https://arxiv.org/abs/2201.10005): GPT + DeCLUTR
-- [Text2vec](https://github.com/shibing624/text2vec)
+- (2022) [Onstructor](https://instructor-embedding.github.io/): EN, 768D, [Paper](https://arxiv.org/abs/2212.09741), use one-sentence instruction to generate task-specific embedding
+- (2022, OpenAI) text-embedding-ada-002: [Paper](https://arxiv.org/abs/2201.10005), GPT + DeCLUTR
+- [Text2vec](https://github.com/shibing624/text2vec): Optimized Cosine Similarty Loss $\log \left(1+\sum_{(i, j) \in \Omega_{p o s},(k, l) \in \Omega_{\text {neg }}} e^{\lambda\left(\cos \left(u_k, u_l\right)-\cos \left(u_i, u_j\right)\right)}\right)$ + CN
 - [E5](https://github.com/microsoft/unilm/tree/master/e5)
 - [SimLM](https://github.com/microsoft/unilm/tree/master/simlm)
 - others
