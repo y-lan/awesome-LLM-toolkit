@@ -56,6 +56,9 @@ Collect information about all the necessary tools and dataset required for build
 ## Evaluation
 - [Perplexity & NLL](https://huggingface.co/docs/transformers/perplexity)
 - [Vicuna Evaluation(Using GPT-4)](https://github.com/lm-sys/FastChat/tree/main/fastchat/eval)
+- [MMLU](https://huggingface.co/datasets/lukaemon/mmlu)
+- [C-EVAL](https://cevalbenchmark.com/)
+- [human-eval](https://github.com/openai/human-eval) (coding)
 
 ## Community
 
