@@ -12,7 +12,9 @@ Collect information about all the necessary tools and dataset required for build
 - PEFT: [Github](https://github.com/huggingface/peft), [LoRA Paper](https://arxiv.org/abs/2106.09685)
   - [QLoRA](https://github.com/artidoro/qlora): GPU memory efficient fine-tuning by training LoRA on quantized models
 - [BLIP-2/LAVIS](https://github.com/salesforce/LAVIS): Connect image encoder with LLM to enable multi-modal, [Paper](https://arxiv.org/pdf/2212.10846.pdf)
-- RLHF frameworks: [DeepSpeed Chat](https://github.com/microsoft/DeepSpeed/tree/master/blogs/deepspeed-chat), [trlx](https://github.com/CarperAI/trlx), [Colossal AI](https://github.com/hpcaitech/ColossalAI)
+- RLHFs:
+  - [DeepSpeed Chat](https://github.com/microsoft/DeepSpeed/tree/master/blogs/deepspeed-chat), [trlx](https://github.com/CarperAI/trlx), [Colossal AI](https://github.com/hpcaitech/ColossalAI)
+  - [TRL](https://github.com/lvwerra/trl)
 
 ## Data
 
