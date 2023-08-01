@@ -60,6 +60,10 @@ Collect information about all the necessary tools and dataset required for build
 - [C-EVAL](https://cevalbenchmark.com/)
 - [human-eval](https://github.com/openai/human-eval) (coding)
 
+## Serving
+- [huggingface/text-generation-inference](https://github.com/huggingface/text-generation-inference): production LLM inference server
+
+
 ## Community
 
 
